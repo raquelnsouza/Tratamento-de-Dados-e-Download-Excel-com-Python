@@ -1,4 +1,11 @@
+(PT-BR)
 Este projeto foi desenvolvido para solucionar um problema de negócio real, onde era necessário gerar um acesso aos stakeholders a uma base de dados, 
 este acesso deveria ser feito via Power BI, porém por questões de licença não foi possível utilizar o Power Automate integrado ao Power BI, então criei este script em Python
 e subi em um servidor no PythonAnywhere gerando um link de download que foi utilizado em um botão no dashboard para que o usuário do dashboard ao clicar fizesse o download
 da base de dados para sua máquina local.
+
+(EN)
+This project was developed to solve a real business problem, where it was necessary to generate access to the stakeholders to a database,
+this access should be done via Power BI, but for licensing reasons it was not possible to use the Power Automate integrated with Power BI, so I created this script in Python
+and uploaded it to a server on PythonAnywhere, generating a download link that was used in a button on the dashboard so that the user of the dashboard, when clicking, would download it
+from the database to your local machine.
